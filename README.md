@@ -19,7 +19,7 @@ CREATE PLUGGABLE DATABASE pdb_name
 ADMIN USER pdb_admin IDENTIFIED BY password
 FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
 
-  ![Image Alt]()
+  ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/488812524b66a1c90de8cc4b9565ef2f994d7d4c/PL_SQL_PDB/PL_PDB_CREATED_0.png)
 - Create a dedicated user inside a PDB
 - Create and completely remove a temporary PDB
 - Access and verify configuration using Oracle Enterprise Manager (OEM)
