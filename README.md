@@ -14,23 +14,21 @@ Introduction
 This assignment was completed to demonstrate practical understanding of Oracle Multitenant Architecture using Oracle Database   
 
 The objective was to:
-1. Create and manage Pluggable Databases (PDBs)
-   
-CREATE PLUGGABLE DATABASE pdb_name
-ADMIN USER pdb_admin IDENTIFIED BY password
--
-FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
--
-
-  ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/488812524b66a1c90de8cc4b9565ef2f994d7d4c/PL_SQL_PDB/PL_PDB_CREATED_0.png)
+- Create and manage Pluggable Databases (PDBs)
 - Create a dedicated user inside a PDB
 - Create and completely remove a temporary PDB
 - Access and verify configuration using Oracle Enterprise Manager (OEM)
 - Document all work professionally and publish it on GitHub
 
-
-And here is the screenshots that shows it
+Task1:Create a New Pluggable Database
 -
+The following are commands i used to get connected to my oracle as SYSDBA and Creat a new pluggable database named "mu_pdb_29398" and save it as it was asked.
+sqlplus / as sysdba
+CREATE PLUGGABLE DATABASE pdb_name
+ADMIN USER pdb_admin IDENTIFIED BY password
+FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
+-
+
 
 Task 2: Create and Delete a PDB
 -
