@@ -31,11 +31,16 @@ ADMIN USER pdb_admin IDENTIFIED BY password
 FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
 -
 ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/383181e9e216693b9ad384a2bbaddf30a7b4f861/PL_SQL_PDB/PL_PDB_CREATED_0.png)
+
 PDB open state
--
+
 ALTER PLUGGABLE DATABASE pdb_name OPEN;
 -
-![Image Alt]()
+![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/ab55fd2ef4bf6f16ccecea398101002bc4e74186/PL_SQL_PDB/PL_PDB_OPENED_1.png)
+
+User created inside the PDB Your username must be clearly visible
+    
+
 Task 2: Create and Delete a PDB
 -
 Task 3: Oracle Enterprise
