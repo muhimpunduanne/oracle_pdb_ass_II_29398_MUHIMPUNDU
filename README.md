@@ -40,6 +40,7 @@ ALTER PLUGGABLE DATABASE pdb_name OPEN;
 
 User created inside the PDB Your username must be clearly visible
     
+![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/1cd2b95d3d5d8529b1a037371be7d3e9d40cd6c4/PL_SQL_PDB/PL_PDB_THE_CREATED_USER_7.png)
 
 Task 2: Create and Delete a PDB
 -
