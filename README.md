@@ -14,7 +14,12 @@ Introduction
 This assignment was completed to demonstrate practical understanding of Oracle Multitenant Architecture using Oracle Database   
 
 The objective was to:
-- Create and manage Pluggable Databases (PDBs)
+1. Create and manage Pluggable Databases (PDBs)
+CREATE PLUGGABLE DATABASE pdb_name
+ADMIN USER pdb_admin IDENTIFIED BY password
+FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
+
+  ![Image Alt]()
 - Create a dedicated user inside a PDB
 - Create and completely remove a temporary PDB
 - Access and verify configuration using Oracle Enterprise Manager (OEM)
