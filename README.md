@@ -46,9 +46,10 @@ Task 2: Create and Delete a PDB
 -
      PDB creation
 ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/caaeb6d1f7489c94bbb77b68d22fecace076d67d/PL_SQL_PDB/PL_PBD_CREATION_OF_THE_DELETE_PDB_10.png)
-     PDB deletion Commands and results must be visible
      
-![Image Alt]()
+      PDB deletion Commands and results must be visible
+     
+![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/0cc6276d3a698c03e7734cb08b00ffe1544ccfe4/PL_SQL_PDB/PL_PDB_DELETION_OF_THE_PDB_TO_DELETE_14.png)
 
 Task 3: Oracle Enterprise
 -
