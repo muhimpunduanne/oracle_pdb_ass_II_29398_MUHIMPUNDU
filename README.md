@@ -23,12 +23,13 @@ The objective was to:
 Task1:Create a New Pluggable Database
 -
 The following are commands i used to get connected to my oracle as SYSDBA and Creat a new pluggable database named "mu_pdb_29398" and save it as it was asked.
+
 sqlplus / as sysdba
 CREATE PLUGGABLE DATABASE pdb_name
 ADMIN USER pdb_admin IDENTIFIED BY password
 FILE_NAME_CONVERT = ('pdbseed', 'pdb_name');
 -
-
+!<Image>(https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/383181e9e216693b9ad384a2bbaddf30a7b4f861/PL_SQL_PDB/PL_PDB_CREATED_0.png)
 
 Task 2: Create and Delete a PDB
 -
