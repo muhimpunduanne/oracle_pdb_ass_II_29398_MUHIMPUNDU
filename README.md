@@ -59,6 +59,6 @@ Task 3: Oracle Enterprise
 -
 in this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the localhost and i logged in using the "System" as Username and "123" and i entered the name of my container as "mu_pdb_29398"
 
-![Image Alt]()
+![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/35765efe5ddd3a0ac49ee55b15e00c67d8901427/image.png)
 
 ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/e106800a8f32485849051cdc19dcfbd315bb6a1c/image.jpg)
