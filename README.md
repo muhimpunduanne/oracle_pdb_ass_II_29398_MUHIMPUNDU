@@ -61,4 +61,4 @@ in this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the local
 
 ![Image Alt]()
 
-![Image Alt]()
+![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/e106800a8f32485849051cdc19dcfbd315bb6a1c/image.jpg)
