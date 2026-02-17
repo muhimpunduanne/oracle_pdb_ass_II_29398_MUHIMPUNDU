@@ -57,7 +57,8 @@ Before creating another pdb i switched to root container in order to avoid error
 
 Task 3: Oracle Enterprise
 -
-in this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the localhost and i logged in using the "System" as Username and "Password" and i entered the name of my container as "mu_pdb_29398"
+in this task 3 i opened and open the OEM(Oracle Enterprise Manager) as the localhost and i logged in using the "System" as Username and "123" and i entered the name of my container as "mu_pdb_29398"
 
+![Image Alt]()
 
-
+![Image Alt]()
