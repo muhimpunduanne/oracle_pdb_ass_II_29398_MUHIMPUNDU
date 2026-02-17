@@ -45,8 +45,8 @@ User created inside the PDB Your username must be clearly visible
 Task 2: Create and Delete a PDB
 -
 Before creating another pdb i switched to root container in order to avoid error because oracle only allows you to create or drop PDBs from the CDB root container not from inside another one as it follows here:
-     PDB creation
- ![Image Alt]()  
+ ![Image Alt]() 
+       PDB creation
 ![Image Alt](https://github.com/muhimpunduanne/oracle_pdb_ass_II_29398_MUHIMPUNDU/blob/caaeb6d1f7489c94bbb77b68d22fecace076d67d/PL_SQL_PDB/PL_PBD_CREATION_OF_THE_DELETE_PDB_10.png)
      
       PDB deletion Commands and results must be visible
